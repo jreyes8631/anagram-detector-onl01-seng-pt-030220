@@ -10,6 +10,10 @@ class Anagram
   end
   
   def match(array_of_word)
+    
+    array_of_word.select
+    
+  end
   
   
   
