@@ -11,7 +11,9 @@ class Anagram
   
   def match(array_of_word)
     
-    array_of_word.select
+    array_of_word.select do |element|
+      
+    end
     
   end
   
